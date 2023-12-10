@@ -17,13 +17,7 @@
 
 To add a Rosé Pine theme to the Linear app, follow this process:
 
-1. Copy the color string
-
-Click on the theme's respective card; it should automatically copy the theme to your clipboard.
-
-<img width="300" src="https://i.ibb.co/PwP5fwN/Screen-Shot-2020-12-08-at-12-24-50.png" />
-
-Manually: 
+1. Copy the color strings:
 
 Rosé Pine - 
 #1F1D2E,#908CAA,#191724,#E0DEF4,#C4A7E7,#524F67
@@ -38,32 +32,19 @@ Rosé Pine Dawn -
 
 On Linear, go to Settings -> Preferences -> Theme and select *Custom* from the interface options swatch.
 
-[insert screenshot of Rose Pine Theme Palettes on Linear Style ]
-
-Then, paste the theme copied from linear-style into the custom text box input, as such:
-
-[insert screenshot of Rose Pine Theme HexCodes on Linear ]
-<img width="800" src="https://i.ibb.co/mDwC0pX/Screen-Shot-2020-12-08-at-12-29-14.png" />
+Then, paste the copied theme into the custom text box input.
 
 ## Gallery
 
-**Rose Pine**
-![Rose Pine with Linear](https://github.com/alii/linear-style/assets/54779085/e19867d3-a096-43e7-bc3b-32b29ffd73ad)
+**Rosé Pine**
+![Rosé Pine with Linear](https://github.com/alii/linear-style/assets/54779085/e19867d3-a096-43e7-bc3b-32b29ffd73ad)
 
-**Rose Pine Moon**
-![Rose Pine Moon with Linear](https://github.com/alii/linear-style/assets/54779085/725fa0b3-e28d-458f-825e-f2bee9c5d5ee)
+**Rosé Pine Moon**
+![Rosé Pine Moon with Linear](https://github.com/alii/linear-style/assets/54779085/725fa0b3-e28d-458f-825e-f2bee9c5d5ee)
 
-**Rose Pine Dawn** 
-![Rose Pine Dawn with Linear](https://github.com/alii/linear-style/assets/54779085/3bb4ae84-745a-447e-93a9-c6d6bdc739e3)
+**Rosé Pine Dawn** 
+![Rosé Pine Dawn with Linear](https://github.com/alii/linear-style/assets/54779085/3bb4ae84-745a-447e-93a9-c6d6bdc739e3)
 
 ## Thanks to
 
 - [Lopè Ariyo](https://github.com/LopeAriyo)
-
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
