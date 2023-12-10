@@ -11,8 +11,6 @@
     </a>
 </p>
 
-<img src="https://rose-pine-images.vercel.app/Linear.png?theme=dawn" />
-
 ## Usage
 
 To add a Rosé Pine theme to the Linear app, follow this process:
