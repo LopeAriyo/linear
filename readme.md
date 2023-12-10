@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Linear</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -11,37 +11,59 @@
     </a>
 </p>
 
+<img src="https://rose-pine-images.vercel.app/Linear.png?theme=dawn" />
+
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+To add a Rosé Pine theme to the Linear app, follow this process:
+
+1. Copy the color string
+
+Click on the theme's respective card; it should automatically copy the theme to your clipboard.
+
+<img width="300" src="https://i.ibb.co/PwP5fwN/Screen-Shot-2020-12-08-at-12-24-50.png" />
+
+Manually: 
+
+Rosé Pine - 
+#1F1D2E,#908CAA,#191724,#E0DEF4,#C4A7E7,#524F67
+
+Rosé Pine Moon - 
+#2A273F,#908CAA,#232136,#E0DEF4,#C4A7E7,#56526E
+
+Rosé Pine Dawn - 
+#FFFAF3,#797593,#FAF4ED,#575279,#286983,#F4EDE8
+
+2. Insert in Linear
+
+On Linear, go to Settings -> Preferences -> Theme and select *Custom* from the interface options swatch.
+
+[insert screenshot of Rose Pine Theme Palettes on Linear Style ]
+
+Then, paste the theme copied from linear-style into the custom text box input, as such:
+
+[insert screenshot of Rose Pine Theme HexCodes on Linear ]
+<img width="800" src="https://i.ibb.co/mDwC0pX/Screen-Shot-2020-12-08-at-12-29-14.png" />
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+**Rose Pine**
+![Rose Pine with Linear](https://github.com/alii/linear-style/assets/54779085/e19867d3-a096-43e7-bc3b-32b29ffd73ad)
+
+**Rose Pine Moon**
+![Rose Pine Moon with Linear](https://github.com/alii/linear-style/assets/54779085/725fa0b3-e28d-458f-825e-f2bee9c5d5ee)
+
+**Rose Pine Dawn** 
+![Rose Pine Dawn with Linear](https://github.com/alii/linear-style/assets/54779085/3bb4ae84-745a-447e-93a9-c6d6bdc739e3)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Lopè Ariyo](https://github.com/LopeAriyo)
 
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
 
 ## Style guide
 
 > Be sure to remove this section 😌
 
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
 - Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
     - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
