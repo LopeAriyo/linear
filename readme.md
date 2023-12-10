@@ -17,16 +17,10 @@
 
 To add a Rosé Pine theme to the Linear app, follow this process:
 
-1. Copy the color strings:
+1. Visit [linear style](https://linear.style/) and click on the respective Rosé Pine theme card; the color strings will automatically be copied to your clipboard.
 
-Rosé Pine - 
-#1F1D2E,#908CAA,#191724,#E0DEF4,#C4A7E7,#524F67
+![Copied Theme String](https://github.com/LopeAriyo/linear/assets/54779085/fba6533f-bca0-40a1-af7f-75f0bcfa545d)
 
-Rosé Pine Moon - 
-#2A273F,#908CAA,#232136,#E0DEF4,#C4A7E7,#56526E
-
-Rosé Pine Dawn - 
-#FFFAF3,#797593,#FAF4ED,#575279,#286983,#F4EDE8
 
 2. Insert in Linear
 
